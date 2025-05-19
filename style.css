@@ -1,0 +1,30 @@
+body {
+  background-color: violet;
+}
+.dice {
+  display: inline;
+  text-align: center;
+}
+h1 {
+  margin: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-shadow: spx 0 yellow;
+  color: coral;
+}
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+p {
+  font-size: 2rem;
+}
+img {
+  width: 10%;
+}
+footer {
+  color: brown;
+  text-align: center;
+  margin: 5%;
+  font-family: Arial, Helvetica, sans-serif;
+}
